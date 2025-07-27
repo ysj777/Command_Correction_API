@@ -1,0 +1,15 @@
+SpeechRecognition
+PyAudio
+pydub
+pandas
+pinecone-client
+sentence-transformers
+starlette
+itsdangerous
+python-multipart
+pydantic
+markdown
+datasets
+fastapi>=0.68.0,<0.69.0
+uvicorn[standard]
+openai
